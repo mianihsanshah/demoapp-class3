@@ -7,7 +7,7 @@ function Work(props){
         <hr/>             
         <h3>1:  Create a React App</h3>
         <hr/>
-        <h3>2:  Add this Reeact App to GitHub</h3>
+        <h3>2:  Add this Reeact App to GitHub Repository using CLI</h3>
         <hr/>
         <h3>3:  Create a child component using props and relate it to parent component in App.js</h3>
         <hr/>
